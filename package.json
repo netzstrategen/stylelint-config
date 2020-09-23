@@ -1,0 +1,31 @@
+{
+  "name": "@netzstrategen/stylelint-config",
+  "version": "1.0.0",
+  "description": "Netzstrategen stylelint config",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "Netzstrategen <hallo@netzstrategen.com> (https://netzstrategen.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netzstrategen/stylelint-config-netzstrategen.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "stylelint": "^13.7.1",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0",
+    "stylelint-selector-bem-pattern": "^2.1.0"
+  },
+  "devDependencies": {
+    "stylelint": "^13.7.1",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0",
+    "stylelint-selector-bem-pattern": "^2.1.0"
+  }
+}
