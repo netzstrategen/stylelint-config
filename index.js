@@ -6,7 +6,7 @@ module.exports = {
     "stylelint-selector-bem-pattern",
   ],
   "extends": [
-    "stylelint-config-hudochenkov/order",
+    "stylelint-config-recess-order",
   ],
   "rules": {
     "scss/at-extend-no-missing-placeholder": true,
