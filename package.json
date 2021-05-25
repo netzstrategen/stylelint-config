@@ -17,12 +17,12 @@
     "index.js"
   ],
   "devDependencies": {
+    "stylelint": "^13.13.1",
     "stylelint-config-recess-order": "^2.4.0",
-    "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.18.0",
     "stylelint-selector-bem-pattern": "^2.1.0"
   },
   "peerDependencies": {
-    "stylelint": "^13.13.1"
+    "stylelint": ">13"
   }
 }
