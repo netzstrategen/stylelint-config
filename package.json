@@ -16,14 +16,9 @@
   "files": [
     "index.js"
   ],
-  "peerDependencies": {
-    "stylelint": "^13.7.1",
-    "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0",
-    "stylelint-selector-bem-pattern": "^2.1.0"
-  },
   "devDependencies": {
     "stylelint": "^13.7.1",
+    "stylelint-config-hudochenkov": "^5.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.18.0",
     "stylelint-selector-bem-pattern": "^2.1.0"
