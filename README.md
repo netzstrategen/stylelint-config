@@ -41,9 +41,10 @@ Overwrite rules from the default Netzstrategen config:
 }
 ```
 
-Stylelint has an extensive [list of rules](https://stylelint.io/user-guide/rules/). Additional rules are provided by the following plugins:
+Stylelint has an extensive [list of rules](https://stylelint.io/user-guide/rules/). Additional rules are provided by the following packages:
 
-- [stylelint-order](https://github.com/hudochenkov/stylelint-order)
-  - [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order)
+- [@zazen/stylelint-config](https://github.com/stormwarning/zazen-stylelint-config)
+  - [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
+  - [stylelint-order](https://github.com/hudochenkov/stylelint-order)
 - [stylelint-scss](https://github.com/kristerkari/stylelint-scss)
 - [stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
