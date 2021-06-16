@@ -21,7 +21,6 @@
     "stylelint": "^13.13.1",
     "stylelint-scss": "^3.19.0",
     "stylelint-selector-bem-pattern": "^2.1.0"
-
   },
   "peerDependencies": {
     "stylelint": ">=13"
