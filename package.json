@@ -17,7 +17,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@zazen/stylelint-config": "^2.0.0"
+    "@zazen/stylelint-config": "^2.0.0",
     "stylelint": "^13.13.1",
     "stylelint-scss": "^3.19.0",
     "stylelint-selector-bem-pattern": "^2.1.0"
