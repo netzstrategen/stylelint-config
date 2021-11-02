@@ -1,16 +1,16 @@
 {
   "name": "@netzstrategen/stylelint-config",
   "version": "2.1.0",
-  "description": "Netzstrategen stylelint config",
+  "description": "Stylelint configuration for netzstrategen projects.",
   "keywords": [
     "stylelint",
     "stylelint-config"
   ],
-  "author": "Netzstrategen <hallo@netzstrategen.com> (https://netzstrategen.com/)",
+  "author": "netzstrategen <hi@netzstrategen.com> (https://netzstrategen.com/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/netzstrategen/stylelint-config-netzstrategen.git"
+    "url": "https://github.com/netzstrategen/stylelint-config.git"
   },
   "main": "index.js",
   "files": [
