@@ -65,5 +65,11 @@ module.exports = {
         ".*\\.lt-ie.*"
       ],
     },
+    "property-no-unknown": [
+      true,
+      {
+        "ignoreProperties": ["aspect-ratio"]
+      }
+    ]
   },
 };
