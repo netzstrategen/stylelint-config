@@ -1,6 +1,6 @@
 {
   "name": "@netzstrategen/stylelint-config",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Stylelint configuration for netzstrategen projects.",
   "keywords": [
     "stylelint",
@@ -17,12 +17,11 @@
     "index.js"
   ],
   "dependencies": {
-    "@zazen/stylelint-config": "^2.0.0",
-    "stylelint": "^13.13.1",
-    "stylelint-scss": "^3.19.0",
-    "stylelint-selector-bem-pattern": "^2.1.0"
+    "@zazen/stylelint-config": "^3.0.0",
+    "stylelint-scss": "^4.3.0",
+    "stylelint-selector-bem-pattern": "^2.1.1"
   },
   "peerDependencies": {
-    "stylelint": ">=13"
+    "stylelint": ">=14"
   }
 }
