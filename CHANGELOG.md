@@ -6,9 +6,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 2022-11-09
 
-- Updated dependencies.
 - Moved stylelint to peer dependencies.
 - Upgraded stylelint to 14.x.
+- Updated `@zazen/stylelint-config` and plugins.
 
 ## 2.0.0
 
