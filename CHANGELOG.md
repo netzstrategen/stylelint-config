@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 3.0.0
+
+2022-11-09
+
+- Updated dependencies.
+- Moved stylelint to peer dependencies.
+- Upgraded stylelint to 14.x.
+
 ## 2.0.0
 
 2021-05-23
