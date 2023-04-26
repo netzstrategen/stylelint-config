@@ -7,7 +7,7 @@ Standard stylelint config for Netzstrategen projects.
 Install the configuration and all peer dependencies:
 
 ```bash
-npm install --save-dev @netzstrategen/stylelint-config stylelint
+npm install --save-dev @netzstrategen/stylelint-config stylelint stylelint-scss stylelint-selector-bem-pattern
 ```
 
 ## Usage
