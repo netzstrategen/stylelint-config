@@ -19,7 +19,7 @@
   "dependencies": {
     "@zazen/stylelint-config": "^3.0.0",
     "stylelint-scss": "^4.3.0",
-    "stylelint-selector-bem-pattern": "^2.1.1"
+    "stylelint-selector-bem-pattern": "^3.0.1"
   },
   "peerDependencies": {
     "stylelint": ">=14"
